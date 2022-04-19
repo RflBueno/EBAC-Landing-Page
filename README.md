@@ -6,6 +6,5 @@ Iniciando no frontend – Criando uma landing page com HTML e CSS.
 Sempre buscando uma semântica melhor a cada projeto e dando uma atenção extra as boas práticas tanto de html como css.
 ---
 Coded by Rafael Bueno.
----
 
 Tks.
