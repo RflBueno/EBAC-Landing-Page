@@ -1,4 +1,4 @@
-# EBAC-Landing-Page com HTML e CSS
+# EBAC-Landing-Page com HTML e CSS.
 
 Projeto foi criado durante o webinar: EXPLORE O UNIVERSO DA TECNOLOGIA, SUA NOVA CARREIRA EM 5 DIAS.
 ---
